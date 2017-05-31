@@ -1,0 +1,2 @@
+# namecalc
+Arabic name calculation
