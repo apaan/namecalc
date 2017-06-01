@@ -79,7 +79,7 @@ function VKI_buildKeyboardInputs() {
             ex.id = keyid;
           } else keyid = ex.id;
           var keybut = document.createElement('img');
-              keybut.src = "http://www.arabic-keyboard.org/keyboard/keyboard.png";
+              keybut.src = "ico/keyboard.png";
               keybut.alt = "Keyboard interface";
               keybut.className = "keyboardInputInitiator";
               keybut.title = "Display graphical keyboard interface";
